@@ -1,7 +1,5 @@
 package ru.task.neoflex;
 
-import java.util.Random;
-
 public class TaskSyntax {
     byte b = 127;
     short sh = 32767;
